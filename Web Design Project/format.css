@@ -1,0 +1,111 @@
+a {
+	text-decoration: none; 
+	color: black;
+	
+}
+nav
+{
+	 height: 85px; 
+	 text-align: center; 
+
+	/*border-style: solid; 
+	 	margin-bottom: 70px; */
+}
+
+
+body 
+{
+	/*background-color: #894ae2;*/
+	 background-image: url(images/background.jpg);
+	 font-family: 'Allan'; font-size: 19px;
+}
+#intro
+{
+	
+	text-decoration: underline; 
+	line-height: 1px; 
+	font-size: 22px; 
+	text-align: center; 
+}
+#info
+{
+		text-align: justify; 
+		color: black; 
+		margin-right: 5px; 
+		margin-left: 5px; 
+		padding-right: 5px; 
+		padding-left: 5px; 
+		font-size: 32px; 
+		 
+}
+#greybox
+{
+	background-color: #636363;
+	height:42%;
+	width: 62%;
+	 font-family: 'Allan';
+	font-weight: bold;
+	border-style: solid;
+	padding-bottom: 5px; 
+	margin: auto; 
+	 margin-top: auto; 
+	 
+	
+	 }
+
+#wrapper
+{
+	width: 80%; 
+	height: 90%;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #871bab; 
+	min-width: 700px; 
+	max-width: 1024px; 
+	box-shadow: 5px 5px 5px 5px;
+}
+header 
+{
+	float: right;
+	line-height: 10%; 
+	padding-top: 10px; 
+}
+#logo
+{
+	margin-bottom: 0px; 
+	padding-bottom: 0px;
+/*	padding-left: 35%;
+float: left; */	
+height: 170px; 
+	 
+}
+footer {
+	padding-top: 100px; 
+	text-align: center; 
+}
+
+#wt 
+{
+	height: 20px; 
+	text-align: center; 
+	
+}
+#img
+{
+	height: 107px;   
+	text-align: center; 
+padding-bottom: 28px;	
+}
+#welcome
+{
+	margin: auto; 
+}
+.float
+{
+	float: right;
+	padding-right: 5px;
+}
+
+nav a img: hover {
+	color:#636363;
+}
