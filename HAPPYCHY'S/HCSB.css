@@ -1,0 +1,51 @@
+body 
+{
+	background-color: #A6CCC6;
+
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+#wrapper 
+{
+	margin-right: auto;
+	margin-left: auto;
+	min-width: 700px; 
+	max-width: 1024px; 
+	width: 80%;
+	background-color: #A6CCC6;
+	background-color: #FFCC99; 
+}
+
+a{
+	text-decoration: none; 
+}
+
+h2
+{
+	background-color: #99CCCC; 
+	line-height: 1%;
+}
+
+#qlb
+{
+	border-style: solid;
+	border-color: black;
+	background-color: #99CCCC; 
+	width: 30%;
+	margin: auto; 
+}
+
+#youth
+{
+	border-style: dotted; 
+	border-color: black;
+
+}
+
+#details
+{
+	border-style: solid;
+	border-color: darkgrey; 
+	
+}
