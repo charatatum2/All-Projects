@@ -1,0 +1,74 @@
+body { background-color: ;
+      background-image: url(images/background.jpg);
+      color: ;
+      font-family: Verdana, Arial, sans-serif;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;}
+#wrapper { width: 80%;
+  height: 90%;
+           margin-right: auto;
+		   margin-left: auto;
+		   background-color: #871bab; 
+		   min-width: 700px;
+		   max-width: 1024px;
+		   box-shadow:   #333333;
+		   float: center;
+		   border: 1px solid;
+		   color: ;}         
+		   
+ #sub {text-align: center; 
+     font-weight: bold; 
+	 font-size: 1.5em;
+	 padding-top:;
+	 float: left;
+	 height:800px;
+     width: 220px;
+	 background-color:purple;
+	 border: 1px solid;}
+
+ #sub a{ text-decoration: none;
+         font-family: 'Allan'; font-size: 19px; }
+ #sub, img a:link { color: white; }
+ #sub a:visited{ color: black; }
+ #sub a:hover { color: mediumblue; }
+ #sub ul { list-style-type: none;
+       padding-left: 0; }
+	   
+	p{font-family:Bookman Old Style;
+   color:white;
+   font-size:16px;
+   text-align:center;}
+   
+   h2{ font-family: 'Allan'; font-size: 19px;
+   color:white;}
+   
+   .float{float:right;
+   padding-right:10px;}
+   
+   h3{ font-family: 'Allan'; font-size: 23px;
+      color:#636363;
+	   padding-left:5px;
+      padding-left: }
+   
+   h1{ font-family: 'Allan'; font-size: 19px;
+   background-color: purple;
+   color:white;}
+
+   a {
+    text-decoration: none;
+    color: black;
+   }
+   header 
+{
+  float: right;
+  line-height: 10%; 
+  padding-top: 10px; 
+   font-family: 'Allan'; font-size: 19px;
+
+}
+#logo
+{
+  height: 170px; 
+}
+ 
